@@ -1,5 +1,5 @@
 permalink: /:year:month:day/:title
-url: /komputer/
+url: 
 baseurl: /komputer/
 
 # variables
