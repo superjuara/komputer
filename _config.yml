@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
 url: http://superjuara.github.com/komputer
-baseurl: 
+baseurl: /komputer
 
 # variables
 name: Linux Teamkita
