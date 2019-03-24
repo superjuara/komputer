@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
-url: /komputer
-baseurl: /komputer
+url: /komputer/
+baseurl: /komputer/
 
 # variables
 name: Linux Teamkita
