@@ -1,5 +1,5 @@
 permalink: /:year:month:day/:title
-url: http://superjuara.github.com/komputer
+url: /komputer
 baseurl: /komputer
 
 # variables
